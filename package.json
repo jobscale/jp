@@ -8,7 +8,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+git@github.com:jobscale/jp.git"
+    "url": "git+https://github.com/jobscale/jp.git"
   },
   "bin": {
     "jp": "bin/jmespath.sh"
